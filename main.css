@@ -4,12 +4,14 @@
      box-sizing: border-box;
      font-family: Inter;
  }
+ 
 
  .container {
      width: 100%;
      height: auto;
      padding: 50px 0;
      background-color: #262626;
+     background-color: blue;
      position: relative;
      color: white;
  }
